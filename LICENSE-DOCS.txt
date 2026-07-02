@@ -1,0 +1,26 @@
+Licencia de los documentos (docs/): Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+Copyright (c) 2026 Isrrael Villablanca Fuentes
+
+Esta licencia aplica a todos los archivos dentro de la carpeta docs/
+(el cuerpo teórico de la TMCSA: capítulos, registros, hallazgos, y
+documentos de identificabilidad).
+
+Eres libre de:
+  - Compartir — copiar y redistribuir el material en cualquier medio o formato
+  - Adaptar — remezclar, transformar y construir a partir del material
+    para cualquier propósito, incluso comercial
+
+Bajo los siguientes términos:
+  - Atribución — Debes dar crédito de manera adecuada a Isrrael Villablanca
+    Fuentes como autor original de la Teoría de la Membrana Constitutiva
+    en Sistemas Abiertos (TMCSA), proporcionar un enlace a la licencia, e
+    indicar si se realizaron cambios. Puedes hacerlo de cualquier manera
+    razonable, pero no de forma que sugiera que el licenciante te respalda
+    a ti o tu uso.
+
+Texto legal completo de la licencia:
+https://creativecommons.org/licenses/by/4.0/legalcode.es
+
+Resumen legible:
+https://creativecommons.org/licenses/by/4.0/deed.es
