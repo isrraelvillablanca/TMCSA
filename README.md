@@ -5,7 +5,7 @@ Teoría de la Membrana Constitutiva en Sistemas Abiertos — Scripts R canónico
 **Author:** Isrrael Villablanca Fuentes  
 **Affiliation:** Independent researcher, Región de Ñuble, Chile  
 **Year:** 2026  
-**License:** MIT (scripts) — see LICENSE file
+**License:** Licencia dual — código bajo MIT (LICENSE-CODE.txt), documentos bajo CC-BY-4.0 (LICENSE-DOCS.txt)
 
 ---
 
@@ -31,7 +31,7 @@ Full verification across all 60 species, organized by biological group:
 | Script | Version | Species (n) | Regime | Status |
 |--------|---------|-------------|--------|--------|
 | `TMCSA_canonico_10A_EM2_v7.R` | v7 | 11 | A | ✓ Verified in R — deterministic branch corrected |
-| `TMCSA_canonico_10B_EM2_v7.R` | v7 | 14 (12A + 2B) | A + B | ✓ Verified in R |
+| `TMCSA_canonico_10B_EM2_v8.R` | v8 | 14 (12A + 2B) | A + B | ✓ Verified in R |
 | `TMCSA_canonico_10C_EM2_v8.R` | v8 | 13 (plants) | A | ✓ Verified in R |
 | `TMCSA_canonico_10D_EM2_v2.R` | v2 | 10 (diverse animals) | A | ✓ Verified in R |
 | `TMCSA_canonico_10E_EM2_v5.R` | v5 | 10 (extreme plants) | A | ✓ Verified in R |
