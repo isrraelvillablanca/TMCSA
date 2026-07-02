@@ -1,5 +1,5 @@
 # TMCSA
-Teoría de la Membrana Constitutiva en Sistemas Abiertos — scripts R canónicos de verificación empírica en 60 especies (5 reinos). Isrrael Villablanca Fuentes, 2026.
+Teoría de la Membrana Constitutiva en Sistemas Abiertos — Scripts R canónicos de verificación empírica en 60 especies (5 reinos). Isrrael Villablanca Fuentes, Junio 2026.
 # TMCSA — Theory of the Constitutive Membrane in Open Systems
 
 **Author:** Isrrael Villablanca Fuentes  
